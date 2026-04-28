@@ -1,6 +1,6 @@
 # Privacy Policy — Velo-Points
 
-*Last updated: 2026-04-28*
+*Last updated: 2026-04-28 — first TestFlight release*
 
 [English version below — Engelse versie hieronder]
 
